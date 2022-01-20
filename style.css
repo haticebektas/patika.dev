@@ -1,0 +1,50 @@
+h1
+{
+    color: blueviolet;
+    text-align: center;
+}
+.linkler1,p
+{
+text-align: center;
+}
+h2
+{
+color: rgb(64, 48, 207);
+text-align: center;
+}
+li
+{
+    align-items: center;
+    font-size: 25 px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(64, 48, 207);
+    font-weight: bold;
+}
+button
+{
+    background-color: violet;
+    color: slateblue;
+}
+
+img{
+width: 600;
+height: 300; 
+position: relative;
+}
+
+.ürünler
+{
+text-align: center;
+list-style-position: inside;
+}
+.kategoriler
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.ürünlerimiz
+{
+   text-align: center;
+}
