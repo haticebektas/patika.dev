@@ -1,0 +1,44 @@
+.img{
+   max-width: 100%;
+   text-align: center;
+   margin: 0px auto;
+   display: block;
+}
+.kutu{
+    width: 90%;
+    height: 100px;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(212, 208, 208);
+    border: 2px solid white;
+}
+.kutu1{
+    background-color: rgb(160, 248, 218);
+    width: 500px;
+    height: 120px;
+    margin-left: 5%;
+    text-align: center;
+    border: 2px solid white;
+    display: inline-block;
+}
+.kutu2{
+    background-color: rgb(147, 238, 205);
+    width: 348px;
+    height: 120px;
+    text-align: center;
+    display: inline-block;
+    border: 2px solid white;
+}
+.kutu3{
+    background-color: rgb(160, 248, 218);
+    width: 500px;
+    height: 120px;
+    margin-right: 5%;
+    text-align: center;
+    display: inline-block;
+    border: 2px solid white;
+    margin-top: 6px;
+}
+.telif{
+    text-align: center;
+}
