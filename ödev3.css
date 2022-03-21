@@ -1,0 +1,112 @@
+*{
+    overflow:hidden;
+}
+.sol{
+    margin-top: 20px;
+    width: 80%;
+    height: 50px;
+    display: inline-block;
+}
+.sol a{
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+}
+.sağ a{
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.sağ{
+    margin-left: 50px;
+    margin-top: 20px;
+    height: 50px;
+    text-decoration: none;
+    display: inline-block;
+}
+span>input{
+    background-color: rgb(89, 127, 231);
+    color: white;
+    width: 70px;
+    height: 30px;
+    border-radius: 5px;
+}
+.menu-9{
+    display: none;
+}
+.menu-9:hover{
+    display: flex;
+}
+.logo{
+    margin-top: 100px;
+    margin-left: 40%;
+    
+}
+.search input{
+    width: 35%;
+    margin-left: 32.5%;
+    height: 35px;
+    border: 0.25 px;
+    border-radius: 50px;
+    border-color: #726d6d;
+    margin-top: 20px;
+}
+.search input:hover{
+    height: 40px;
+    border-color: white;
+    box-shadow: 2px 2px 2px 2px rgb(128, 122, 122);
+}
+.buton{
+    margin-left: 570px;
+    margin-top: 30px;
+    margin-right: 20px;
+}
+.buton button{
+    margin-left: 20px;
+    height: 35px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: rgb(247, 247, 247);
+    font-size: 15px;
+    border-radius: 5px;
+    border-color: white;
+}
+.buton button:hover{
+    box-shadow: 2px 2px 2px 2px rgb(216, 210, 210);
+    height: 37px;
+}
+.üst{
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 100%;
+    margin-top: 210px;
+    padding-top: 20px;
+    padding-left: 30px;
+    height: 35px;
+    background-color: #d4d4d4ea;
+}
+.alt{
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    border-top: 0.3px solid rgb(129, 128, 128);
+    padding-top: 20px;
+    height: 35px;
+    background-color: #d4d4d4ea;
+}
+.alt-orta{
+    margin-left: 100px;
+    margin-right: 50px;
+}
+.alt-sol{
+    padding-left: 30px;
+    padding-right: 200px;
+    float: left;
+}
+.alt-sağ{
+    padding-left: 300px;
+    margin-left: 100px;
+    float: right;
+}
